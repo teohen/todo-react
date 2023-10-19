@@ -1,0 +1,16 @@
+        #todo-list {
+            max-width: 400px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f2f2f2;
+            border-radius: 5px;
+        }
+
+        #todo-list h1 {
+            text-align: center;
+        }
+
+        #task-list {
+            list-style-type: none;
+            padding: 0;
+        }
